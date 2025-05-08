@@ -10,17 +10,17 @@
     "OWNERS": {
       "description": "owner numbers",
       "required": true,
-      "value": "254743706010;𝐒𝐈𝐋𝐕𝐀 𝐌𝐃 𝐁𝐎𝐓"
+      "value": "254799260313"
     },
     "BOTNAME": {
       "description": "Give your BOT a name",
       "required": true,
-      "value": "SILVA-MD-BOT©®"
+      "value": "Eimo-MD-BOT©®"
     },
     "SESSION_ID": {
       "description": "your session id. get session here https://silva-session-selector.vercel.app/",
       "required": true,
-      "value": ""
+      "value": "{"noiseKey":{"private":{"type":"Buffer","data":"ACON5CUFQ0llRcPrumy3Mj5KMaRgOlh02N8hcJKYcUo="},"public":{"type":"Buffer","data":"UnQti6UqtkaGY4NSGxLnFrtVt3iUAAe+W5U0/cChJg0="}},"pairingEphemeralKeyPair":{"private":{"type":"Buffer","data":"kI+YZQHUtHLq8YZvhO7BphfNJB1ZIAMLwp+Uia/oQFk="},"public":{"type":"Buffer","data":"DrOyqRfEzZyBPMb1HDa4RyXbu3wWsxoZzresvT0u+zQ="}},"signedIdentityKey":{"private":{"type":"Buffer","data":"2K0oeTxzYzbV65N354YUbhPYCVaMhbGxDTu3PT/PGGs="},"public":{"type":"Buffer","data":"0R6suQa9Rur3j9bJ4HEZ1n09OeqK7Eo4qZzHPHHryFs="}},"signedPreKey":{"keyPair":{"private":{"type":"Buffer","data":"8EijfT3QTNJgYphEMEXU08AGbIC47qHxfgQkua4hwkk="},"public":{"type":"Buffer","data":"Vvy5ytqL+loCHAvjkdEEzafyA3FANu418Bx9Fo4cAhk="}},"signature":{"type":"Buffer","data":"SKhclctH6UqucyLPW8wwm0Tkro3mB8VfTiC8OmPLhwwnAtcwYFcJ4dsV6+a13mwwryQV/4/YTPhpR6gisJihCA=="},"keyId":1},"registrationId":141,"advSecretKey":"B+d99qYaU+kDN9jhTW2QY1fR70+2HhXjNLcgb+cfTEU=","processedHistoryMessages":[{"key":{"remoteJid":"254799260313@s.whatsapp.net","fromMe":true,"id":"3B81A31BE0769C753B8C9C22AA5BFBA5"},"messageTimestamp":1746741985},{"key":{"remoteJid":"254799260313@s.whatsapp.net","fromMe":true,"id":"DECC03A40B20A5847D8ED5942DF5F507"},"messageTimestamp":1746741985}],"nextPreKeyId":31,"firstUnuploadedPreKeyId":31,"accountSyncCounter":1,"accountSettings":{"unarchiveChats":false},"deviceId":"_GwZo38DREy04yjM477rnQ","phoneId":"840e1c0c-af00-4f7f-82c0-c3c4eda61ceb","identityId":{"type":"Buffer","data":"+ORn8Ri6w+Kk/Z5gn9ZCgJPg5Yk="},"registered":true,"backupToken":{"type":"Buffer","data":"RfjxbNrw8WLALI5ZYcqOqi3ygZc="},"registration":{},"pairingCode":"VVKBKJAK","me":{"id":"254799260313:32@s.whatsapp.net","lid":"60512431824944:32@lid","name":"Eimo Edu Eimo"},"account":{"details":"CLfY36cGENHV9MAGGAEgACgA","accountSignatureKey":"/4MXEdTsYqV055AAITEsISYvvv/BDyF7pzqJawwWYUc=","accountSignature":"ePvkg7byzVNVuhh2bOFGYR16dnxg4IzqzzlCGF3kYa5QzKY1a+0MqbP9FBE8NpeAZrIfPQ2SXKZJUzUl4BFqBw==","deviceSignature":"NKe7wUGWrnUDOETbWVV93pV5SVmNMsGHX/h2v+i/kdifeqvFL50giKxDM/47cd6Li2yup7LCdBqqtBgpAi8rBg=="},"signalIdentities":[{"identifier":{"name":"254799260313:32@s.whatsapp.net","deviceId":0},"identifierKey":{"type":"Buffer","data":"Bf+DFxHU7GKldOeQACExLCEmL77/wQ8he6c6iWsMFmFH"}}],"platform":"android","lastAccountSyncTimestamp":1746741982,"myAppStateKeyId":"AAAAACTc"}"
     },
     "MODE": {
       "description": "mode public or private",
@@ -85,7 +85,7 @@
     "STATUS_MSG": {
       "description": "custmize with your message",
       "required": false,
-      "value": "SILVA MD BOT SUCCESSFULLY VIEWED YOUR STATUS 💖💚"
+      "value": "Eimo bot viewed satus 💖💚"
     },
     "antidelete": {
       "description": "bot will forward deleted messages if you make it true",
